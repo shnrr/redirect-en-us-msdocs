@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         redirect en-us MS Docs
+// @namespace    shnarita
+// @version      0.1
+// @description  try to take over the world!
+// @author       shnarita
+// @match        https://docs.microsoft.com/*
+// @grant        none
+// ==/UserScript==
+
 (function () {
 
   document.onkeydown = function (e) {
