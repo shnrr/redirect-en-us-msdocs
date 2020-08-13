@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         redirect en-us MS Docs
-// @namespace    shnarita
+// @namespace    none
 // @version      0.1
 // @description  try to take over the world!
 // @author       shnarita
