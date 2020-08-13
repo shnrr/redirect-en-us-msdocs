@@ -6,6 +6,9 @@
 // @author       shnarita
 // @match        https://docs.microsoft.com/*
 // @grant        none
+// @updateURL    https://github.com/shnrr/redirect-en-us-msdocs/raw/master/main.js
+// @downloadURL  https://github.com/shnrr/redirect-en-us-msdocs/raw/master/main.js
+// @supportURL   https://github.com/shnrr/redirect-en-us-msdocs/
 // ==/UserScript==
 
 (function () {
