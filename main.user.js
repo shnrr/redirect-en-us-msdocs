@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       shnarita
 // @match        https://docs.microsoft.com/*
+// @match        https://learn.microsoft.com/*
 // @grant        none
 // @updateURL    https://github.com/shnrr/redirect-en-us-msdocs/raw/master/main.user.js
 // @downloadURL  https://github.com/shnrr/redirect-en-us-msdocs/raw/master/main.user.js
